@@ -32,6 +32,6 @@ We appreciate your contributions and look forward to building a stronger cyberse
 
 ## Connect With Us
 
-You can join our club by contacting our club leader: [https://t.me/magnummalum](@magnummalum)
+You can join our club by contacting our club leader: [@magnummalum](https://t.me/magnummalum)
 
 Let's make the digital world a safer place, one line of code at a time! 💻🌐🛡️
